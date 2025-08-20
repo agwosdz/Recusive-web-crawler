@@ -1,0 +1,16 @@
+# Web Scraping and HTML Parsing Dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+termcolor>=2.3.0
+
+# Optional dependencies for enhanced functionality
+selenium>=4.15.0  # For JavaScript-heavy sites
+chardet>=5.2.0    # For character encoding detection
+validators>=0.22.0  # For URL validation
+
+# Development and testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+flake8>=6.1.0
+black>=23.9.0

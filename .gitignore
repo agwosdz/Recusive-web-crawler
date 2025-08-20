@@ -1,0 +1,11 @@
+web_scraper.py
+NewMIDIX
+venv
+test*
+mirrored_site/html.html
+mirrored_site/index.html
+mirrored_site/post.html
+mirrored_site/flasgger_static/swagger-ui-bundle.js
+mirrored_site/flasgger_static/swagger-ui-standalone-preset.js
+mirrored_site/flasgger_static/swagger-ui.css
+mirrored_site/flasgger_static/lib/jquery.min.js

@@ -1,0 +1,71 @@
+{
+  "timestamp": "2025-08-20T10:27:50.883667",
+  "total_urls_visited": 1,
+  "subdomains": [
+    "https://discord.gg/SfFdbunEm2",
+    "https://midiano.com",
+    "https://twitter.com/MidianoOfficial",
+    "https://www.reddit.com/r/midiano/"
+  ],
+  "links": [
+    "https://discord.gg/SfFdbunEm2",
+    "https://midiano.com",
+    "https://twitter.com/MidianoOfficial",
+    "https://www.reddit.com/r/midiano/"
+  ],
+  "images": [
+    "https://app.midiano.com/resources/images/socials/DiscordGrey.svg",
+    "https://app.midiano.com/resources/images/socials/TwitterGrey.svg",
+    "https://app.midiano.com/resources/images/socials/RedditGrey.svg",
+    "https://app.midiano.com/resources/images/logo3.svg"
+  ],
+  "js_files": [
+    "https://app.midiano.com/lib/Pickr/pickr.es5.min.js",
+    "https://app.midiano.com/production/main.min.js",
+    "https://app.midiano.com/lib/jspdf.umd.min.js",
+    "https://app.midiano.com/lib/goatCounter.js",
+    "https://app.midiano.com/lib/three.min.js",
+    "https://app.midiano.com/lib/Base64binary.js",
+    "https://app.midiano.com/lib/Base64.js"
+  ],
+  "css_files": [
+    "https://app.midiano.com/css/Inputs.css",
+    "https://app.midiano.com/css/common.css",
+    "https://app.midiano.com/css/loading.css",
+    "https://app.midiano.com/css/Settings.css",
+    "https://app.midiano.com/css/landingPage.css",
+    "https://app.midiano.com/css/Interface.css",
+    "https://app.midiano.com/lib/Pickr/nano.min.css"
+  ],
+  "emails": [],
+  "phone_numbers": [],
+  "social_media": [
+    "https://twitter.com/MidianoOfficial"
+  ],
+  "text_content": [
+    {
+      "type": "title",
+      "content": "Midiano"
+    },
+    {
+      "type": "paragraph",
+      "content": "Loading"
+    }
+  ],
+  "metadata": {
+    "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover, maximum-scale=1.0, user-scalable=no",
+    "google-site-verification": "w0SMD6jKSdkWT2VpCPmIXm90nXUhAtczUysV2kWaBUE",
+    "apple-mobile-web-app-status-bar": "#444444",
+    "theme-color": "#444444",
+    "msapplication-TileColor": "#FFFFFF",
+    "msapplication-TileImage": "resources/favicons/favicon-144.png",
+    "msapplication-config": "resources/favicons/browserconfig.xml",
+    "og:title": "Midiano",
+    "og:site_name": "midiano.com",
+    "og:url": "https://midiano.com",
+    "og:description": "Midiano is an interactive Piano-learning app that runs on any device with a modern browser.",
+    "og:type": "website",
+    "og:image": "https://midiano.com/resources/images/openGraphScreen.png",
+    "description": "Midiano is an interactive Piano-learning app that runs on any device with a modern browser. Open any MIDI-File and Midiano shows you the notes as falling bars over a piano as well as the corresponding sheet music. Connect a MIDI-Keyboard to get instant feedback if you hit the correct notes. You can also use the keyboard as output device to play the MIDI-Files on your keyboard."
+  }
+}

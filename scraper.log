@@ -1,0 +1,536 @@
+2025-08-20 10:27:50,767 - INFO - Starting web scraping for: https://app.midiano.com/index.html
+2025-08-20 10:27:50,879 - INFO - Crawling: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 10:27:50,889 - INFO - Results saved to scraper_results_20250820_102750.json
+2025-08-20 10:32:24,116 - INFO - Starting web scraping for: https://httpbin.org/html
+2025-08-20 10:32:24,118 - INFO - Mirror directory setup complete: demo_mirror_site
+2025-08-20 10:32:24,118 - INFO - Mirror mode enabled. Saving to: demo_mirror_site
+2025-08-20 10:32:32,510 - INFO - Crawling: https://httpbin.org/html (depth: 0)
+2025-08-20 10:32:32,519 - INFO - Saved page: https://httpbin.org/html -> html_index.html
+2025-08-20 10:32:32,521 - INFO - Created mirror index at: demo_mirror_site\mirror_index.html
+2025-08-20 10:32:46,396 - INFO - Starting web scraping for: https://httpbin.org/html
+2025-08-20 10:32:46,401 - INFO - Mirror directory setup complete: test_mirror
+2025-08-20 10:32:46,401 - INFO - Mirror mode enabled. Saving to: test_mirror
+2025-08-20 10:32:49,835 - INFO - Crawling: https://httpbin.org/html (depth: 0)
+2025-08-20 10:32:49,839 - INFO - Saved page: https://httpbin.org/html -> html_index.html
+2025-08-20 10:32:49,842 - INFO - Created mirror index at: test_mirror\mirror_index.html
+2025-08-20 10:33:47,846 - INFO - Starting web scraping for: https://app.midiano.com/index.html
+2025-08-20 10:33:47,855 - INFO - Mirror directory setup complete: test_mirror
+2025-08-20 10:33:47,855 - INFO - Mirror mode enabled. Saving to: test_mirror
+2025-08-20 10:33:48,308 - INFO - Crawling: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 10:33:48,313 - INFO - Saved page: https://app.midiano.com/index.html -> index.html
+2025-08-20 10:33:48,763 - ERROR - Error downloading resource https://app.midiano.com/assets/images/logo3.svg: 404 Client Error: Not Found for url: https://app.midiano.com/assets/images/logo3.svg
+2025-08-20 10:33:49,223 - ERROR - Error downloading resource https://app.midiano.com/assets/images/RedditGrey.svg: 404 Client Error: Not Found for url: https://app.midiano.com/assets/images/RedditGrey.svg
+2025-08-20 10:33:49,633 - ERROR - Error downloading resource https://app.midiano.com/assets/images/TwitterGrey.svg: 404 Client Error: Not Found for url: https://app.midiano.com/assets/images/TwitterGrey.svg
+2025-08-20 10:33:50,042 - ERROR - Error downloading resource https://app.midiano.com/assets/images/DiscordGrey.svg: 404 Client Error: Not Found for url: https://app.midiano.com/assets/images/DiscordGrey.svg
+2025-08-20 10:33:50,429 - ERROR - Error downloading resource https://app.midiano.com/assets/css/common.css: 404 Client Error: Not Found for url: https://app.midiano.com/assets/css/common.css
+2025-08-20 10:33:50,832 - ERROR - Error downloading resource https://app.midiano.com/assets/css/loading.css: 404 Client Error: Not Found for url: https://app.midiano.com/assets/css/loading.css
+2025-08-20 10:33:51,207 - ERROR - Error downloading resource https://app.midiano.com/assets/css/landingPage.css: 404 Client Error: Not Found for url: https://app.midiano.com/assets/css/landingPage.css
+2025-08-20 10:33:51,571 - ERROR - Error downloading resource https://app.midiano.com/assets/css/Interface.css: 404 Client Error: Not Found for url: https://app.midiano.com/assets/css/Interface.css
+2025-08-20 10:33:51,961 - ERROR - Error downloading resource https://app.midiano.com/assets/css/Inputs.css: 404 Client Error: Not Found for url: https://app.midiano.com/assets/css/Inputs.css
+2025-08-20 10:33:52,419 - ERROR - Error downloading resource https://app.midiano.com/assets/css/Settings.css: 404 Client Error: Not Found for url: https://app.midiano.com/assets/css/Settings.css
+2025-08-20 10:33:52,802 - ERROR - Error downloading resource https://app.midiano.com/assets/css/nano.min.css: 404 Client Error: Not Found for url: https://app.midiano.com/assets/css/nano.min.css
+2025-08-20 10:33:53,194 - ERROR - Error downloading resource https://app.midiano.com/assets/js/pickr.es5.min.js: 404 Client Error: Not Found for url: https://app.midiano.com/assets/js/pickr.es5.min.js
+2025-08-20 10:33:53,562 - ERROR - Error downloading resource https://app.midiano.com/assets/js/jspdf.umd.min.js: 404 Client Error: Not Found for url: https://app.midiano.com/assets/js/jspdf.umd.min.js
+2025-08-20 10:33:53,906 - ERROR - Error downloading resource https://app.midiano.com/assets/js/Base64.js: 404 Client Error: Not Found for url: https://app.midiano.com/assets/js/Base64.js
+2025-08-20 10:33:54,297 - ERROR - Error downloading resource https://app.midiano.com/assets/js/Base64binary.js: 404 Client Error: Not Found for url: https://app.midiano.com/assets/js/Base64binary.js
+2025-08-20 10:33:54,648 - ERROR - Error downloading resource https://app.midiano.com/assets/js/three.min.js: 404 Client Error: Not Found for url: https://app.midiano.com/assets/js/three.min.js
+2025-08-20 10:33:55,039 - ERROR - Error downloading resource https://app.midiano.com/assets/js/main.min.js: 404 Client Error: Not Found for url: https://app.midiano.com/assets/js/main.min.js
+2025-08-20 10:33:55,441 - ERROR - Error downloading resource https://app.midiano.com/assets/js/goatCounter.js: 404 Client Error: Not Found for url: https://app.midiano.com/assets/js/goatCounter.js
+2025-08-20 10:33:55,449 - INFO - Created mirror index at: test_mirror\mirror_index.html
+2025-08-20 10:38:39,980 - INFO - Starting web scraping for: https://app.midiano.com/index.html
+2025-08-20 10:38:39,985 - INFO - Mirror directory setup complete: NewMIDI
+2025-08-20 10:38:39,985 - INFO - Mirror mode enabled. Saving to: NewMIDI
+2025-08-20 10:38:40,435 - INFO - Crawling: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 10:38:40,441 - INFO - Saved page: https://app.midiano.com/index.html -> index.html
+2025-08-20 10:38:40,920 - INFO - Downloaded resource: https://app.midiano.com/resources/images/logo3.svg -> resources_images_logo3.svg
+2025-08-20 10:38:41,334 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/RedditGrey.svg -> resources_images_socials_RedditGrey.svg
+2025-08-20 10:38:41,795 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/TwitterGrey.svg -> resources_images_socials_TwitterGrey.svg
+2025-08-20 10:38:42,217 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/DiscordGrey.svg -> resources_images_socials_DiscordGrey.svg
+2025-08-20 10:38:42,661 - INFO - Downloaded resource: https://app.midiano.com/css/common.css -> css_common.css
+2025-08-20 10:38:43,096 - INFO - Downloaded resource: https://app.midiano.com/css/loading.css -> css_loading.css
+2025-08-20 10:38:43,531 - INFO - Downloaded resource: https://app.midiano.com/css/landingPage.css -> css_landingPage.css
+2025-08-20 10:38:43,927 - INFO - Downloaded resource: https://app.midiano.com/css/Interface.css -> css_Interface.css
+2025-08-20 10:38:44,354 - INFO - Downloaded resource: https://app.midiano.com/css/Inputs.css -> css_Inputs.css
+2025-08-20 10:38:44,747 - INFO - Downloaded resource: https://app.midiano.com/css/Settings.css -> css_Settings.css
+2025-08-20 10:38:45,179 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/nano.min.css -> lib_Pickr_nano.min.css
+2025-08-20 10:38:45,717 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/pickr.es5.min.js -> lib_Pickr_pickr.es5.min.js
+2025-08-20 10:38:46,300 - INFO - Downloaded resource: https://app.midiano.com/lib/jspdf.umd.min.js -> lib_jspdf.umd.min.js
+2025-08-20 10:38:46,714 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64.js -> lib_Base64.js
+2025-08-20 10:38:47,099 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64binary.js -> lib_Base64binary.js
+2025-08-20 10:38:47,650 - INFO - Downloaded resource: https://app.midiano.com/lib/three.min.js -> lib_three.min.js
+2025-08-20 10:38:48,348 - INFO - Downloaded resource: https://app.midiano.com/production/main.min.js -> production_main.min.js
+2025-08-20 10:38:48,755 - INFO - Downloaded resource: https://app.midiano.com/lib/goatCounter.js -> lib_goatCounter.js
+2025-08-20 10:38:48,758 - INFO - Created mirror index at: NewMIDI\mirror_index.html
+2025-08-20 10:40:05,419 - INFO - Starting web scraping for: https://app.midiano.com/index.html
+2025-08-20 10:40:05,424 - INFO - Mirror directory setup complete: NewMIDI
+2025-08-20 10:40:05,424 - INFO - Mirror mode enabled. Saving to: NewMIDI
+2025-08-20 10:40:05,806 - INFO - Crawling: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 10:40:05,812 - INFO - Saved page: https://app.midiano.com/index.html -> index.html
+2025-08-20 10:40:05,812 - ERROR - Error saving page https://app.midiano.com/index.html: WebScraper._download_page_resources() missing 1 required positional argument: 'page_path'
+2025-08-20 10:40:05,814 - INFO - Created mirror index at: NewMIDI\mirror_index.html
+2025-08-20 10:40:19,571 - INFO - Starting web scraping for: https://app.midiano.com/index.html
+2025-08-20 10:40:19,576 - INFO - Mirror directory setup complete: NewMIDI
+2025-08-20 10:40:19,576 - INFO - Mirror mode enabled. Saving to: NewMIDI
+2025-08-20 10:40:19,980 - INFO - Crawling: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 10:40:20,418 - INFO - Downloaded resource: https://app.midiano.com/css/common.css -> css_common.css
+2025-08-20 10:40:20,880 - INFO - Downloaded resource: https://app.midiano.com/css/loading.css -> css_loading.css
+2025-08-20 10:40:21,263 - INFO - Downloaded resource: https://app.midiano.com/css/landingPage.css -> css_landingPage.css
+2025-08-20 10:40:21,673 - INFO - Downloaded resource: https://app.midiano.com/css/Interface.css -> css_Interface.css
+2025-08-20 10:40:22,099 - INFO - Downloaded resource: https://app.midiano.com/css/Inputs.css -> css_Inputs.css
+2025-08-20 10:40:22,492 - INFO - Downloaded resource: https://app.midiano.com/css/Settings.css -> css_Settings.css
+2025-08-20 10:40:22,940 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/nano.min.css -> lib_Pickr_nano.min.css
+2025-08-20 10:40:23,396 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/pickr.es5.min.js -> lib_Pickr_pickr.es5.min.js
+2025-08-20 10:40:23,937 - INFO - Downloaded resource: https://app.midiano.com/lib/jspdf.umd.min.js -> lib_jspdf.umd.min.js
+2025-08-20 10:40:24,317 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64.js -> lib_Base64.js
+2025-08-20 10:40:24,737 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64binary.js -> lib_Base64binary.js
+2025-08-20 10:40:25,390 - INFO - Downloaded resource: https://app.midiano.com/lib/three.min.js -> lib_three.min.js
+2025-08-20 10:40:25,996 - INFO - Downloaded resource: https://app.midiano.com/production/main.min.js -> production_main.min.js
+2025-08-20 10:40:26,402 - INFO - Downloaded resource: https://app.midiano.com/lib/goatCounter.js -> lib_goatCounter.js
+2025-08-20 10:40:26,808 - INFO - Downloaded resource: https://app.midiano.com/resources/images/logo3.svg -> resources_images_logo3.svg
+2025-08-20 10:40:27,274 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/RedditGrey.svg -> resources_images_socials_RedditGrey.svg
+2025-08-20 10:40:27,690 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/TwitterGrey.svg -> resources_images_socials_TwitterGrey.svg
+2025-08-20 10:40:28,691 - INFO - Starting web scraping for: https://httpbin.org/html
+2025-08-20 10:40:28,696 - INFO - Mirror directory setup complete: test_original_structure
+2025-08-20 10:40:28,696 - INFO - Mirror mode enabled. Saving to: test_original_structure
+2025-08-20 10:40:29,984 - INFO - Crawling: https://httpbin.org/html (depth: 0)
+2025-08-20 10:40:29,992 - INFO - Saved page: https://httpbin.org/html -> html_index.html (with 0 resources)
+2025-08-20 10:40:29,994 - INFO - Created mirror index at: test_original_structure\mirror_index.html
+2025-08-20 10:40:37,078 - INFO - Starting web scraping for: https://httpbin.org/html
+2025-08-20 10:40:37,079 - INFO - Mirror directory setup complete: demo_mirror_site
+2025-08-20 10:40:37,079 - INFO - Mirror mode enabled. Saving to: demo_mirror_site
+2025-08-20 10:40:43,807 - INFO - Crawling: https://httpbin.org/html (depth: 0)
+2025-08-20 10:40:43,814 - INFO - Saved page: https://httpbin.org/html -> html_index.html (with 0 resources)
+2025-08-20 10:40:43,815 - INFO - Created mirror index at: demo_mirror_site\mirror_index.html
+2025-08-20 10:41:17,268 - INFO - Starting web scraping for: https://app.midiano.com/index.html
+2025-08-20 10:41:17,274 - INFO - Mirror directory setup complete: NewMIDI2
+2025-08-20 10:41:17,274 - INFO - Mirror mode enabled. Saving to: NewMIDI2
+2025-08-20 10:41:17,724 - INFO - Crawling: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 10:41:18,128 - INFO - Downloaded resource: https://app.midiano.com/css/common.css -> css_common.css
+2025-08-20 10:41:18,537 - INFO - Downloaded resource: https://app.midiano.com/css/loading.css -> css_loading.css
+2025-08-20 10:41:18,922 - INFO - Downloaded resource: https://app.midiano.com/css/landingPage.css -> css_landingPage.css
+2025-08-20 10:41:19,275 - INFO - Downloaded resource: https://app.midiano.com/css/Interface.css -> css_Interface.css
+2025-08-20 10:41:19,648 - INFO - Downloaded resource: https://app.midiano.com/css/Inputs.css -> css_Inputs.css
+2025-08-20 10:41:20,010 - INFO - Downloaded resource: https://app.midiano.com/css/Settings.css -> css_Settings.css
+2025-08-20 10:41:20,381 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/nano.min.css -> lib_Pickr_nano.min.css
+2025-08-20 10:41:20,825 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/pickr.es5.min.js -> lib_Pickr_pickr.es5.min.js
+2025-08-20 10:41:21,348 - INFO - Downloaded resource: https://app.midiano.com/lib/jspdf.umd.min.js -> lib_jspdf.umd.min.js
+2025-08-20 10:41:21,744 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64.js -> lib_Base64.js
+2025-08-20 10:41:22,103 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64binary.js -> lib_Base64binary.js
+2025-08-20 10:41:22,561 - INFO - Downloaded resource: https://app.midiano.com/lib/three.min.js -> lib_three.min.js
+2025-08-20 10:41:23,185 - INFO - Downloaded resource: https://app.midiano.com/production/main.min.js -> production_main.min.js
+2025-08-20 10:41:23,552 - INFO - Downloaded resource: https://app.midiano.com/lib/goatCounter.js -> lib_goatCounter.js
+2025-08-20 10:41:23,940 - INFO - Downloaded resource: https://app.midiano.com/resources/images/logo3.svg -> resources_images_logo3.svg
+2025-08-20 10:41:24,367 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/RedditGrey.svg -> resources_images_socials_RedditGrey.svg
+2025-08-20 10:41:24,751 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/TwitterGrey.svg -> resources_images_socials_TwitterGrey.svg
+2025-08-20 10:41:25,162 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/DiscordGrey.svg -> resources_images_socials_DiscordGrey.svg
+2025-08-20 10:41:25,165 - INFO - Saved page: https://app.midiano.com/index.html -> index.html (with 18 resources)
+2025-08-20 10:41:25,166 - INFO - Created mirror index at: NewMIDI2\mirror_index.html
+2025-08-20 10:41:39,538 - INFO - Starting web scraping for: https://httpbin.org/html
+2025-08-20 10:41:39,543 - INFO - Mirror directory setup complete: test_preserved_names
+2025-08-20 10:41:39,543 - INFO - Mirror mode enabled. Saving to: test_preserved_names
+2025-08-20 10:41:41,624 - INFO - Crawling: https://httpbin.org/html (depth: 0)
+2025-08-20 10:41:41,631 - INFO - Saved page: https://httpbin.org/html -> html_index.html (with 0 resources)
+2025-08-20 10:41:41,633 - INFO - Created mirror index at: test_preserved_names\mirror_index.html
+2025-08-20 10:41:48,107 - INFO - Starting web scraping for: https://example.com
+2025-08-20 10:41:48,112 - INFO - Mirror directory setup complete: test_example_preserved
+2025-08-20 10:41:48,112 - INFO - Mirror mode enabled. Saving to: test_example_preserved
+2025-08-20 10:41:48,718 - INFO - Crawling: https://example.com (depth: 0)
+2025-08-20 10:41:48,724 - INFO - Saved page: https://example.com -> index.html (with 0 resources)
+2025-08-20 10:41:48,726 - INFO - Created mirror index at: test_example_preserved\mirror_index.html
+2025-08-20 10:42:06,666 - INFO - Starting web scraping for: https://app.midiano.com/index.html
+2025-08-20 10:42:06,672 - INFO - Mirror directory setup complete: NewMIDI
+2025-08-20 10:42:06,672 - INFO - Mirror mode enabled. Saving to: NewMIDI
+2025-08-20 10:42:07,063 - INFO - Crawling: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 10:42:08,027 - INFO - Parsing HTML file: test_special_chars.html
+2025-08-20 10:42:19,653 - INFO - Starting web scraping for: https://app.midiano.com/index.html
+2025-08-20 10:42:19,659 - INFO - Mirror directory setup complete: NewMIDI
+2025-08-20 10:42:19,659 - INFO - Mirror mode enabled. Saving to: NewMIDI
+2025-08-20 10:42:20,019 - INFO - Crawling: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 10:42:20,389 - INFO - Downloaded resource: https://app.midiano.com/css/common.css -> css/common.css
+2025-08-20 10:42:20,737 - INFO - Downloaded resource: https://app.midiano.com/css/loading.css -> css/loading.css
+2025-08-20 10:42:21,079 - INFO - Downloaded resource: https://app.midiano.com/css/landingPage.css -> css/landingPage.css
+2025-08-20 10:42:21,511 - INFO - Downloaded resource: https://app.midiano.com/css/Interface.css -> css/Interface.css
+2025-08-20 10:42:21,883 - INFO - Downloaded resource: https://app.midiano.com/css/Inputs.css -> css/Inputs.css
+2025-08-20 10:42:22,282 - INFO - Downloaded resource: https://app.midiano.com/css/Settings.css -> css/Settings.css
+2025-08-20 10:42:22,703 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/nano.min.css -> lib/Pickr/nano.min.css
+2025-08-20 10:42:23,174 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/pickr.es5.min.js -> lib/Pickr/pickr.es5.min.js
+2025-08-20 10:42:23,665 - INFO - Downloaded resource: https://app.midiano.com/lib/jspdf.umd.min.js -> lib/jspdf.umd.min.js
+2025-08-20 10:42:24,087 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64.js -> lib/Base64.js
+2025-08-20 10:42:24,455 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64binary.js -> lib/Base64binary.js
+2025-08-20 10:42:25,027 - INFO - Downloaded resource: https://app.midiano.com/lib/three.min.js -> lib/three.min.js
+2025-08-20 10:42:25,551 - INFO - Downloaded resource: https://app.midiano.com/production/main.min.js -> production/main.min.js
+2025-08-20 10:42:25,975 - INFO - Downloaded resource: https://app.midiano.com/lib/goatCounter.js -> lib/goatCounter.js
+2025-08-20 10:42:26,354 - INFO - Downloaded resource: https://app.midiano.com/resources/images/logo3.svg -> resources/images/logo3.svg
+2025-08-20 10:42:26,758 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/RedditGrey.svg -> resources/images/socials/RedditGrey.svg
+2025-08-20 10:42:27,115 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/TwitterGrey.svg -> resources/images/socials/TwitterGrey.svg
+2025-08-20 10:42:27,493 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/DiscordGrey.svg -> resources/images/socials/DiscordGrey.svg
+2025-08-20 10:42:27,496 - INFO - Saved page: https://app.midiano.com/index.html -> index.html (with 18 resources)
+2025-08-20 10:42:27,497 - INFO - Created mirror index at: NewMIDI\mirror_index.html
+2025-08-20 10:45:08,145 - INFO - Starting web scraping for: https://example.com
+2025-08-20 10:45:08,148 - INFO - Mirror directory setup complete: test_override_demo
+2025-08-20 10:45:08,148 - INFO - Mirror mode enabled. Saving to: test_override_demo
+2025-08-20 10:45:08,771 - INFO - Crawling: https://example.com (depth: 0)
+2025-08-20 10:45:08,775 - INFO - Using index override file: custom_index.html
+2025-08-20 10:45:08,775 - INFO - Saved page: https://example.com -> index.html (with 0 resources)
+2025-08-20 10:45:08,780 - INFO - Created mirror index at: test_override_demo\mirror_index.html
+2025-08-20 10:46:58,338 - INFO - Starting web scraping for: https://app.midiano.com/index.html
+2025-08-20 10:46:58,347 - INFO - Mirror directory setup complete: NewMIDI
+2025-08-20 10:46:58,347 - INFO - Mirror mode enabled. Saving to: NewMIDI
+2025-08-20 10:46:58,827 - INFO - Crawling: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 10:46:58,837 - INFO - Using index override file: .\index.html
+2025-08-20 10:46:59,251 - INFO - Downloaded resource: https://app.midiano.com/css/common.css -> css/common.css
+2025-08-20 10:46:59,673 - INFO - Downloaded resource: https://app.midiano.com/css/loading.css -> css/loading.css
+2025-08-20 10:47:00,075 - INFO - Downloaded resource: https://app.midiano.com/css/landingPage.css -> css/landingPage.css
+2025-08-20 10:47:00,497 - INFO - Downloaded resource: https://app.midiano.com/css/Interface.css -> css/Interface.css
+2025-08-20 10:47:00,923 - INFO - Downloaded resource: https://app.midiano.com/css/Inputs.css -> css/Inputs.css
+2025-08-20 10:47:01,335 - INFO - Downloaded resource: https://app.midiano.com/css/Settings.css -> css/Settings.css
+2025-08-20 10:47:01,762 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/nano.min.css -> lib/Pickr/nano.min.css
+2025-08-20 10:47:02,158 - INFO - Downloaded resource: https://app.midiano.com/lib/Pickr/pickr.es5.min.js -> lib/Pickr/pickr.es5.min.js
+2025-08-20 10:47:02,637 - INFO - Downloaded resource: https://app.midiano.com/lib/jspdf.umd.min.js -> lib/jspdf.umd.min.js
+2025-08-20 10:47:03,025 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64.js -> lib/Base64.js
+2025-08-20 10:47:03,419 - INFO - Downloaded resource: https://app.midiano.com/lib/Base64binary.js -> lib/Base64binary.js
+2025-08-20 10:47:03,921 - INFO - Downloaded resource: https://app.midiano.com/lib/three.min.js -> lib/three.min.js
+2025-08-20 10:47:04,289 - INFO - Downloaded resource: https://app.midiano.com/built/js/main.js -> built/js/main.js
+2025-08-20 10:47:04,671 - INFO - Downloaded resource: https://app.midiano.com/lib/goatCounter.js -> lib/goatCounter.js
+2025-08-20 10:47:05,017 - INFO - Downloaded resource: https://app.midiano.com/resources/images/logo3.svg -> resources/images/logo3.svg
+2025-08-20 10:47:05,397 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/RedditGrey.svg -> resources/images/socials/RedditGrey.svg
+2025-08-20 10:47:05,762 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/TwitterGrey.svg -> resources/images/socials/TwitterGrey.svg
+2025-08-20 10:47:06,115 - INFO - Downloaded resource: https://app.midiano.com/resources/images/socials/DiscordGrey.svg -> resources/images/socials/DiscordGrey.svg
+2025-08-20 10:47:06,117 - INFO - Saved page: https://app.midiano.com/index.html -> index.html (with 18 resources)
+2025-08-20 10:47:06,119 - INFO - Created mirror index at: NewMIDI\mirror_index.html
+2025-08-20 11:01:08,995 - INFO - Starting scrape of: https://app.midiano.com/index.html
+2025-08-20 11:01:09,428 - INFO - Processing: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 11:01:09,825 - INFO - Downloaded css: NewMIDI2\css/common.css
+2025-08-20 11:01:10,252 - INFO - Downloaded css: NewMIDI2\css/loading.css
+2025-08-20 11:01:10,637 - INFO - Downloaded css: NewMIDI2\css/landingPage.css
+2025-08-20 11:01:11,033 - INFO - Downloaded css: NewMIDI2\css/Interface.css
+2025-08-20 11:01:11,403 - INFO - Downloaded css: NewMIDI2\css/Inputs.css
+2025-08-20 11:01:11,764 - INFO - Downloaded css: NewMIDI2\css/Settings.css
+2025-08-20 11:01:12,127 - INFO - Downloaded css: NewMIDI2\lib/Pickr/nano.min.css
+2025-08-20 11:01:12,546 - INFO - Downloaded js: NewMIDI2\lib/Pickr/pickr.es5.min.js
+2025-08-20 11:01:13,051 - INFO - Downloaded js: NewMIDI2\lib/jspdf.umd.min.js
+2025-08-20 11:01:13,419 - INFO - Downloaded js: NewMIDI2\lib/Base64.js
+2025-08-20 11:01:13,799 - INFO - Downloaded js: NewMIDI2\lib/Base64binary.js
+2025-08-20 11:01:14,292 - INFO - Downloaded js: NewMIDI2\lib/three.min.js
+2025-08-20 11:01:14,835 - INFO - Downloaded js: NewMIDI2\production/main.min.js
+2025-08-20 11:01:15,210 - INFO - Downloaded js: NewMIDI2\lib/goatCounter.js
+2025-08-20 11:01:15,598 - INFO - Downloaded image: NewMIDI2\resources/images/logo3.svg
+2025-08-20 11:01:16,004 - INFO - Downloaded image: NewMIDI2\resources/images/socials/RedditGrey.svg
+2025-08-20 11:01:16,367 - INFO - Downloaded image: NewMIDI2\resources/images/socials/TwitterGrey.svg
+2025-08-20 11:01:16,742 - INFO - Downloaded image: NewMIDI2\resources/images/socials/DiscordGrey.svg
+2025-08-20 11:01:16,743 - INFO - Saved HTML: NewMIDI2\index.html
+2025-08-20 11:01:51,309 - INFO - Starting scrape of: https://app.midiano.com/index.html
+2025-08-20 11:01:51,710 - INFO - Processing: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 11:01:52,128 - INFO - Downloaded css: NewMIDI3\css/common.css
+2025-08-20 11:01:52,523 - INFO - Downloaded css: NewMIDI3\css/loading.css
+2025-08-20 11:01:52,921 - INFO - Downloaded css: NewMIDI3\css/landingPage.css
+2025-08-20 11:01:53,299 - INFO - Downloaded css: NewMIDI3\css/Interface.css
+2025-08-20 11:01:53,685 - INFO - Downloaded css: NewMIDI3\css/Inputs.css
+2025-08-20 11:01:54,095 - INFO - Downloaded css: NewMIDI3\css/Settings.css
+2025-08-20 11:01:54,469 - INFO - Downloaded css: NewMIDI3\lib/Pickr/nano.min.css
+2025-08-20 11:01:54,925 - INFO - Downloaded js: NewMIDI3\lib/Pickr/pickr.es5.min.js
+2025-08-20 11:01:55,408 - INFO - Downloaded js: NewMIDI3\lib/jspdf.umd.min.js
+2025-08-20 11:01:55,788 - INFO - Downloaded js: NewMIDI3\lib/Base64.js
+2025-08-20 11:01:56,181 - INFO - Downloaded js: NewMIDI3\lib/Base64binary.js
+2025-08-20 11:01:56,687 - INFO - Downloaded js: NewMIDI3\lib/three.min.js
+2025-08-20 11:01:57,254 - INFO - Downloaded js: NewMIDI3\production/main.min.js
+2025-08-20 11:01:57,733 - INFO - Downloaded js: NewMIDI3\lib/goatCounter.js
+2025-08-20 11:01:58,131 - INFO - Downloaded image: NewMIDI3\resources/images/logo3.svg
+2025-08-20 11:01:58,508 - INFO - Downloaded image: NewMIDI3\resources/images/socials/RedditGrey.svg
+2025-08-20 11:01:58,882 - INFO - Downloaded image: NewMIDI3\resources/images/socials/TwitterGrey.svg
+2025-08-20 11:01:59,273 - INFO - Downloaded image: NewMIDI3\resources/images/socials/DiscordGrey.svg
+2025-08-20 11:01:59,275 - INFO - Saved HTML: NewMIDI3\index.html
+2025-08-20 11:03:40,184 - INFO - Saved HTML: C:\Users\TheZet\AppData\Local\Temp\tmpfv0zg8pj\test_mirror\custom_override_index.html
+2025-08-20 11:03:40,184 - INFO - Saved HTML: C:\Users\TheZet\AppData\Local\Temp\tmpfv0zg8pj\test_mirror\about.html
+2025-08-20 11:04:50,866 - INFO - Saved HTML with override: C:\Users\TheZet\AppData\Local\Temp\tmpmdbezbkd\test_mirror\index.html
+2025-08-20 11:04:50,867 - INFO - Saved HTML: C:\Users\TheZet\AppData\Local\Temp\tmpmdbezbkd\test_mirror\about.html
+2025-08-20 11:05:01,936 - INFO - Saved HTML with override: C:\Users\TheZet\AppData\Local\Temp\tmplcxoip9r\test_mirror\index.html
+2025-08-20 11:05:01,936 - INFO - Saved HTML: C:\Users\TheZet\AppData\Local\Temp\tmplcxoip9r\test_mirror\about.html
+2025-08-20 11:05:03,620 - INFO - Starting scrape of: https://app.midiano.com/index.html
+2025-08-20 11:05:04,125 - INFO - Processing: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 11:05:04,579 - INFO - Downloaded css: NewMIDIX\css/common.css
+2025-08-20 11:05:04,937 - INFO - Downloaded css: NewMIDIX\css/loading.css
+2025-08-20 11:05:05,350 - INFO - Downloaded css: NewMIDIX\css/landingPage.css
+2025-08-20 11:05:05,733 - INFO - Downloaded css: NewMIDIX\css/Interface.css
+2025-08-20 11:05:06,131 - INFO - Downloaded css: NewMIDIX\css/Inputs.css
+2025-08-20 11:05:06,505 - INFO - Downloaded css: NewMIDIX\css/Settings.css
+2025-08-20 11:05:06,866 - INFO - Downloaded css: NewMIDIX\lib/Pickr/nano.min.css
+2025-08-20 11:05:07,326 - INFO - Downloaded js: NewMIDIX\lib/Pickr/pickr.es5.min.js
+2025-08-20 11:05:07,827 - INFO - Downloaded js: NewMIDIX\lib/jspdf.umd.min.js
+2025-08-20 11:05:08,220 - INFO - Downloaded js: NewMIDIX\lib/Base64.js
+2025-08-20 11:05:08,605 - INFO - Downloaded js: NewMIDIX\lib/Base64binary.js
+2025-08-20 11:05:09,116 - INFO - Downloaded js: NewMIDIX\lib/three.min.js
+2025-08-20 11:05:09,720 - INFO - Downloaded js: NewMIDIX\production/main.min.js
+2025-08-20 11:05:10,137 - INFO - Downloaded js: NewMIDIX\lib/goatCounter.js
+2025-08-20 11:05:10,526 - INFO - Downloaded image: NewMIDIX\resources/images/logo3.svg
+2025-08-20 11:05:10,976 - INFO - Downloaded image: NewMIDIX\resources/images/socials/RedditGrey.svg
+2025-08-20 11:05:11,363 - INFO - Downloaded image: NewMIDIX\resources/images/socials/TwitterGrey.svg
+2025-08-20 11:05:11,736 - INFO - Downloaded image: NewMIDIX\resources/images/socials/DiscordGrey.svg
+2025-08-20 11:05:11,738 - INFO - Saved HTML: NewMIDIX\index.html
+2025-08-20 11:05:18,366 - INFO - Starting scrape of: https://example.com
+2025-08-20 11:05:18,853 - INFO - Processing: https://example.com (depth: 0)
+2025-08-20 11:05:18,857 - INFO - Saved HTML with override: mirrored_site\index.html
+2025-08-20 11:06:15,003 - INFO - Starting scrape of: https://app.midiano.com/index.html
+2025-08-20 11:06:15,577 - INFO - Processing: https://app.midiano.com/index.html (depth: 0)
+2025-08-20 11:06:16,067 - INFO - Downloaded css: NewMIDIX2\css/common.css
+2025-08-20 11:06:16,497 - INFO - Downloaded css: NewMIDIX2\css/loading.css
+2025-08-20 11:06:16,867 - INFO - Downloaded css: NewMIDIX2\css/landingPage.css
+2025-08-20 11:06:17,227 - INFO - Downloaded css: NewMIDIX2\css/Interface.css
+2025-08-20 11:06:17,612 - INFO - Downloaded css: NewMIDIX2\css/Inputs.css
+2025-08-20 11:06:17,974 - INFO - Downloaded css: NewMIDIX2\css/Settings.css
+2025-08-20 11:06:18,337 - INFO - Downloaded css: NewMIDIX2\lib/Pickr/nano.min.css
+2025-08-20 11:06:18,764 - INFO - Downloaded js: NewMIDIX2\lib/Pickr/pickr.es5.min.js
+2025-08-20 11:06:19,283 - INFO - Downloaded js: NewMIDIX2\lib/jspdf.umd.min.js
+2025-08-20 11:06:19,732 - INFO - Downloaded js: NewMIDIX2\lib/Base64.js
+2025-08-20 11:06:20,147 - INFO - Downloaded js: NewMIDIX2\lib/Base64binary.js
+2025-08-20 11:06:20,618 - INFO - Downloaded js: NewMIDIX2\lib/three.min.js
+2025-08-20 11:06:21,147 - INFO - Downloaded js: NewMIDIX2\production/main.min.js
+2025-08-20 11:06:21,563 - INFO - Downloaded js: NewMIDIX2\lib/goatCounter.js
+2025-08-20 11:06:21,943 - INFO - Downloaded image: NewMIDIX2\resources/images/logo3.svg
+2025-08-20 11:06:22,304 - INFO - Downloaded image: NewMIDIX2\resources/images/socials/RedditGrey.svg
+2025-08-20 11:06:22,672 - INFO - Downloaded image: NewMIDIX2\resources/images/socials/TwitterGrey.svg
+2025-08-20 11:06:23,007 - INFO - Downloaded image: NewMIDIX2\resources/images/socials/DiscordGrey.svg
+2025-08-20 11:06:23,007 - INFO - Saved HTML: NewMIDIX2\index.html
+2025-08-20 11:06:56,772 - INFO - Starting scrape of: https://httpbin.org/html
+2025-08-20 11:07:05,681 - INFO - Processing: https://httpbin.org/html (depth: 0)
+2025-08-20 11:07:05,708 - INFO - Saved HTML: mirrored_site\html.html
+2025-08-20 11:07:13,648 - INFO - Starting scrape of: https://httpbin.org/
+2025-08-20 11:07:15,211 - INFO - Processing: https://httpbin.org/ (depth: 0)
+2025-08-20 11:07:15,593 - INFO - Downloaded css: mirrored_site\css
+2025-08-20 11:07:17,818 - INFO - Downloaded css: mirrored_site\flasgger_static/swagger-ui.css
+2025-08-20 11:07:23,045 - INFO - Downloaded js: mirrored_site\flasgger_static/swagger-ui-bundle.js
+2025-08-20 11:07:27,136 - INFO - Downloaded js: mirrored_site\flasgger_static/swagger-ui-standalone-preset.js
+2025-08-20 11:07:30,453 - INFO - Downloaded js: mirrored_site\flasgger_static/lib/jquery.min.js
+2025-08-20 11:07:30,453 - INFO - Saved HTML with override: mirrored_site\index.html
+2025-08-20 11:07:36,671 - INFO - Processing: https://httpbin.org/forms/post (depth: 1)
+2025-08-20 11:07:36,679 - INFO - Saved HTML: mirrored_site\post.html
+2025-08-20 11:08:09,376 - INFO - Saved HTML with override: C:\Users\TheZet\AppData\Local\Temp\tmpf_gpmtkz\test_mirror\index.html
+2025-08-20 11:08:09,376 - INFO - Saved HTML with override: C:\Users\TheZet\AppData\Local\Temp\tmpf_gpmtkz\test_mirror\index.html
+2025-08-20 11:08:09,376 - INFO - Saved HTML: C:\Users\TheZet\AppData\Local\Temp\tmpf_gpmtkz\test_mirror\about.html
+2025-08-20 11:08:09,379 - INFO - Saved HTML: C:\Users\TheZet\AppData\Local\Temp\tmpf_gpmtkz\test_mirror\contact.html
+2025-08-20 11:08:09,379 - INFO - Saved HTML: C:\Users\TheZet\AppData\Local\Temp\tmpf_gpmtkz\test_mirror\blog.html
+2025-08-20 11:08:16,393 - INFO - Starting scrape of: https://example.com/
+2025-08-20 11:08:17,019 - INFO - Processing: https://example.com/ (depth: 0)
+2025-08-20 11:08:17,022 - INFO - Saved HTML with override: mirrored_site\index.html
+2025-08-20 11:08:42,569 - INFO - Starting scrape of: https://app.midiano.com/
+2025-08-20 11:08:43,082 - INFO - Processing: https://app.midiano.com/ (depth: 0)
+2025-08-20 11:08:43,605 - INFO - Downloaded css: NewMIDIX\css/common.css
+2025-08-20 11:08:44,092 - INFO - Downloaded css: NewMIDIX\css/loading.css
+2025-08-20 11:08:44,527 - INFO - Downloaded css: NewMIDIX\css/landingPage.css
+2025-08-20 11:08:44,883 - INFO - Downloaded css: NewMIDIX\css/Interface.css
+2025-08-20 11:08:45,309 - INFO - Downloaded css: NewMIDIX\css/Inputs.css
+2025-08-20 11:08:45,684 - INFO - Downloaded css: NewMIDIX\css/Settings.css
+2025-08-20 11:08:46,042 - INFO - Downloaded css: NewMIDIX\lib/Pickr/nano.min.css
+2025-08-20 11:08:46,462 - INFO - Downloaded js: NewMIDIX\lib/Pickr/pickr.es5.min.js
+2025-08-20 11:08:46,971 - INFO - Downloaded js: NewMIDIX\lib/jspdf.umd.min.js
+2025-08-20 11:08:47,367 - INFO - Downloaded js: NewMIDIX\lib/Base64.js
+2025-08-20 11:08:47,722 - INFO - Downloaded js: NewMIDIX\lib/Base64binary.js
+2025-08-20 11:08:48,281 - INFO - Downloaded js: NewMIDIX\lib/three.min.js
+2025-08-20 11:08:48,840 - INFO - Downloaded js: NewMIDIX\production/main.min.js
+2025-08-20 11:08:49,276 - INFO - Downloaded js: NewMIDIX\lib/goatCounter.js
+2025-08-20 11:08:49,697 - INFO - Downloaded image: NewMIDIX\resources/images/logo3.svg
+2025-08-20 11:08:50,083 - INFO - Downloaded image: NewMIDIX\resources/images/socials/RedditGrey.svg
+2025-08-20 11:08:50,522 - INFO - Downloaded image: NewMIDIX\resources/images/socials/TwitterGrey.svg
+2025-08-20 11:08:50,882 - INFO - Downloaded image: NewMIDIX\resources/images/socials/DiscordGrey.svg
+2025-08-20 11:08:50,884 - INFO - Saved HTML with override: NewMIDIX\index.html
+2025-08-20 11:12:41,282 - INFO - Starting scrape of: https://example.com/
+2025-08-20 11:12:41,891 - INFO - Processing: https://example.com/ (depth: 0)
+2025-08-20 11:12:41,893 - INFO - Using override content for parsing: https://example.com/
+2025-08-20 11:12:42,689 - ERROR - Error downloading css https://example.com/css/custom-style.css: 404 Client Error: Not Found for url: https://example.com/css/custom-style.css
+2025-08-20 11:12:43,447 - ERROR - Error downloading css https://example.com/assets/override-theme.css: 404 Client Error: Not Found for url: https://example.com/assets/override-theme.css
+2025-08-20 11:12:44,430 - ERROR - Error downloading js https://example.com/js/custom-app.js: 404 Client Error: Not Found for url: https://example.com/js/custom-app.js
+2025-08-20 11:12:45,487 - ERROR - Error downloading js https://example.com/assets/override-bundle.js: 404 Client Error: Not Found for url: https://example.com/assets/override-bundle.js
+2025-08-20 11:12:46,748 - ERROR - Error downloading js https://example.com/lib/custom-framework.js: 404 Client Error: Not Found for url: https://example.com/lib/custom-framework.js
+2025-08-20 11:12:48,599 - ERROR - Error downloading image https://example.com/images/override-logo.png: 404 Client Error: Not Found for url: https://example.com/images/override-logo.png
+2025-08-20 11:13:01,897 - ERROR - Error downloading image https://example.com/assets/custom-banner.jpg: 404 Client Error: Not Found for url: https://example.com/assets/custom-banner.jpg
+2025-08-20 11:13:01,898 - INFO - Saved HTML with override: C:\Users\TheZet\AppData\Local\Temp\tmpx69p179g\test_mirror\index.html
+2025-08-20 11:13:49,212 - INFO - Starting scrape of: https://example.com/
+2025-08-20 11:14:02,369 - INFO - Processing: https://example.com/ (depth: 0)
+2025-08-20 11:14:02,371 - INFO - Using override content for parsing: https://example.com/
+2025-08-20 11:14:16,207 - ERROR - Error downloading css https://example.com/css/custom-style.css: 404 Client Error: Not Found for url: https://example.com/css/custom-style.css
+2025-08-20 11:14:28,918 - ERROR - Error downloading css https://example.com/assets/override-theme.css: 404 Client Error: Not Found for url: https://example.com/assets/override-theme.css
+2025-08-20 11:14:42,072 - ERROR - Error downloading js https://example.com/js/custom-app.js: 404 Client Error: Not Found for url: https://example.com/js/custom-app.js
+2025-08-20 11:14:43,495 - ERROR - Error downloading js https://example.com/assets/override-bundle.js: 404 Client Error: Not Found for url: https://example.com/assets/override-bundle.js
+2025-08-20 11:14:44,752 - ERROR - Error downloading js https://example.com/lib/custom-framework.js: 404 Client Error: Not Found for url: https://example.com/lib/custom-framework.js
+2025-08-20 11:14:46,504 - ERROR - Error downloading image https://example.com/images/override-logo.png: 404 Client Error: Not Found for url: https://example.com/images/override-logo.png
+2025-08-20 11:14:47,753 - ERROR - Error downloading image https://example.com/assets/custom-banner.jpg: 404 Client Error: Not Found for url: https://example.com/assets/custom-banner.jpg
+2025-08-20 11:14:47,755 - INFO - Saved HTML with override: C:\Users\TheZet\AppData\Local\Temp\tmpv5vckb03\test_mirror\index.html
+2025-08-20 11:14:54,322 - INFO - Starting scrape of: https://httpbin.org/
+2025-08-20 11:15:00,637 - INFO - Processing: https://httpbin.org/ (depth: 0)
+2025-08-20 11:15:00,639 - INFO - Using override content for parsing: https://httpbin.org/
+2025-08-20 11:15:00,646 - INFO - Saved HTML with override: mirrored_site\index.html
+2025-08-20 11:15:38,963 - INFO - Starting scrape of: https://example.com/
+2025-08-20 11:15:40,073 - INFO - Processing: https://example.com/ (depth: 0)
+2025-08-20 11:15:40,075 - INFO - Using override content for parsing: https://example.com/
+2025-08-20 11:15:41,349 - ERROR - Error downloading css https://example.com/assets/css/main.css: 404 Client Error: Not Found for url: https://example.com/assets/css/main.css
+2025-08-20 11:15:42,592 - ERROR - Error downloading css https://example.com/static/theme.css: 404 Client Error: Not Found for url: https://example.com/static/theme.css
+2025-08-20 11:15:43,882 - ERROR - Error downloading js https://example.com/js/app.js: 404 Client Error: Not Found for url: https://example.com/js/app.js
+2025-08-20 11:15:45,563 - ERROR - Error downloading js https://example.com/lib/utils.js: 404 Client Error: Not Found for url: https://example.com/lib/utils.js
+2025-08-20 11:15:52,537 - ERROR - Error downloading js https://example.com/api/client.js: 404 Client Error: Not Found for url: https://example.com/api/client.js
+2025-08-20 11:15:53,834 - ERROR - Error downloading js https://example.com/components/ui.js: 404 Client Error: Not Found for url: https://example.com/components/ui.js
+2025-08-20 11:16:04,682 - ERROR - Error downloading image https://example.com/images/logo.png: HTTPSConnectionPool(host='example.com', port=443): Read timed out. (read timeout=10)
+2025-08-20 11:16:06,548 - ERROR - Error downloading image https://example.com/assets/banner.jpg: 404 Client Error: Not Found for url: https://example.com/assets/banner.jpg
+2025-08-20 11:16:06,548 - INFO - Saved HTML with override: C:\Users\TheZet\AppData\Local\Temp\tmp2k1qwdc_\corrected_mirror\index.html
+2025-08-20 11:16:28,827 - INFO - Starting scrape of: https://app.midiano.com/
+2025-08-20 11:16:29,807 - INFO - Processing: https://app.midiano.com/ (depth: 0)
+2025-08-20 11:16:29,810 - INFO - Using override content for parsing: https://app.midiano.com/
+2025-08-20 11:16:41,882 - INFO - Downloaded css: NewMIDIX\css/common.css
+2025-08-20 11:16:42,711 - INFO - Downloaded css: NewMIDIX\css/loading.css
+2025-08-20 11:16:43,573 - INFO - Downloaded css: NewMIDIX\css/landingPage.css
+2025-08-20 11:16:44,390 - INFO - Downloaded css: NewMIDIX\css/Interface.css
+2025-08-20 11:16:45,280 - INFO - Downloaded css: NewMIDIX\css/Inputs.css
+2025-08-20 11:16:46,074 - INFO - Downloaded css: NewMIDIX\css/Settings.css
+2025-08-20 11:16:58,163 - INFO - Downloaded css: NewMIDIX\lib/Pickr/nano.min.css
+2025-08-20 11:16:59,029 - INFO - Downloaded js: NewMIDIX\lib/Pickr/pickr.es5.min.js
+2025-08-20 11:17:00,129 - INFO - Downloaded js: NewMIDIX\lib/jspdf.umd.min.js
+2025-08-20 11:17:00,971 - INFO - Downloaded js: NewMIDIX\lib/Base64.js
+2025-08-20 11:17:01,763 - INFO - Downloaded js: NewMIDIX\lib/Base64binary.js
+2025-08-20 11:17:02,818 - INFO - Downloaded js: NewMIDIX\lib/three.min.js
+2025-08-20 11:17:14,887 - INFO - Downloaded js: NewMIDIX\built/js/main.js
+2025-08-20 11:17:14,889 - INFO - Processing JS dependency: https://app.midiano.com/built/js/NewUpdates.js (from https://app.midiano.com/built/js/main.js)
+2025-08-20 11:17:15,719 - INFO - Saved JS dependency: NewMIDIX\built/js/NewUpdates.js (resolved from https://app.midiano.com/built/js/main.js)
+2025-08-20 11:17:15,719 - INFO - Processing JS dependency: https://app.midiano.com/built/js/Rendering/Render.js (from https://app.midiano.com/built/js/NewUpdates.js)
+2025-08-20 11:17:16,558 - INFO - Saved JS dependency: NewMIDIX\built/js/Rendering/Render.js (resolved from https://app.midiano.com/built/js/NewUpdates.js)
+2025-08-20 11:17:16,561 - INFO - Processing JS dependency: https://app.midiano.com/built/js/Rendering/BackgroundRender.js (from https://app.midiano.com/built/js/Rendering/Render.js)
+2025-08-20 11:17:17,336 - INFO - Saved JS dependency: NewMIDIX\built/js/Rendering/BackgroundRender.js (resolved from https://app.midiano.com/built/js/Rendering/Render.js)
+2025-08-20 11:17:17,338 - INFO - Processing JS dependency: https://app.midiano.com/built/js/Rendering/RenderDimensions.js (from https://app.midiano.com/built/js/Rendering/BackgroundRender.js)
+2025-08-20 11:17:18,096 - INFO - Saved JS dependency: NewMIDIX\built/js/Rendering/RenderDimensions.js (resolved from https://app.midiano.com/built/js/Rendering/BackgroundRender.js)
+2025-08-20 11:17:18,097 - INFO - Processing JS dependency: https://app.midiano.com/built/js/Util.js (from https://app.midiano.com/built/js/Rendering/RenderDimensions.js)
+2025-08-20 11:17:18,905 - INFO - Saved JS dependency: NewMIDIX\built/js/Util.js (resolved from https://app.midiano.com/built/js/Rendering/RenderDimensions.js)
+2025-08-20 11:17:18,906 - INFO - Processing JS dependency: https://app.midiano.com/built/js/settings/Settings.js (from https://app.midiano.com/built/js/Util.js)
+2025-08-20 11:17:19,753 - INFO - Saved JS dependency: NewMIDIX\built/js/settings/Settings.js (resolved from https://app.midiano.com/built/js/Util.js)
+2025-08-20 11:17:19,754 - INFO - Processing JS dependency: https://app.midiano.com/built/js/ui/SettingUI.js (from https://app.midiano.com/built/js/settings/Settings.js)
+2025-08-20 11:17:20,549 - INFO - Saved JS dependency: NewMIDIX\built/js/ui/SettingUI.js (resolved from https://app.midiano.com/built/js/settings/Settings.js)
+2025-08-20 11:17:20,550 - INFO - Processing JS dependency: https://app.midiano.com/built/js/ui/ConfirmDialog.js (from https://app.midiano.com/built/js/ui/SettingUI.js)
+2025-08-20 11:17:27,692 - INFO - Saved JS dependency: NewMIDIX\built/js/ui/ConfirmDialog.js (resolved from https://app.midiano.com/built/js/ui/SettingUI.js)
+2025-08-20 11:17:27,692 - INFO - Processing JS dependency: https://app.midiano.com/built/js/ui/DomHelper.js (from https://app.midiano.com/built/js/ui/ConfirmDialog.js)
+2025-08-20 11:17:28,473 - INFO - Saved JS dependency: NewMIDIX\built/js/ui/DomHelper.js (resolved from https://app.midiano.com/built/js/ui/ConfirmDialog.js)
+2025-08-20 11:17:28,474 - INFO - Processing JS dependency: https://app.midiano.com/built/js/ui/phosphorIconsFilled.js (from https://app.midiano.com/built/js/ui/DomHelper.js)
+2025-08-20 11:17:29,550 - INFO - Saved JS dependency: NewMIDIX\built/js/ui/phosphorIconsFilled.js (resolved from https://app.midiano.com/built/js/ui/DomHelper.js)
+2025-08-20 11:17:30,567 - INFO - Processing JS dependency: https://app.midiano.com/built/js/data/CONST.js (from https://app.midiano.com/built/js/ui/DomHelper.js)
+2025-08-20 11:17:31,346 - INFO - Saved JS dependency: NewMIDIX\built/js/data/CONST.js (resolved from https://app.midiano.com/built/js/ui/DomHelper.js)
+2025-08-20 11:17:34,351 - INFO - Processing JS dependency: https://app.midiano.com/built/js/ui/SongUI.js (from https://app.midiano.com/built/js/ui/SettingUI.js)
+2025-08-20 11:17:35,089 - INFO - Saved JS dependency: NewMIDIX\built/js/ui/SongUI.js (resolved from https://app.midiano.com/built/js/ui/SettingUI.js)
+2025-08-20 11:17:35,090 - INFO - Processing JS dependency: https://app.midiano.com/built/js/ui/InputDialogue.js (from https://app.midiano.com/built/js/ui/SongUI.js)
+2025-08-20 11:17:35,861 - INFO - Saved JS dependency: NewMIDIX\built/js/ui/InputDialogue.js (resolved from https://app.midiano.com/built/js/ui/SongUI.js)
+2025-08-20 11:17:36,862 - INFO - Processing JS dependency: https://app.midiano.com/built/js/settings/IndexDbHandler.js (from https://app.midiano.com/built/js/ui/SongUI.js)
+2025-08-20 11:17:37,675 - INFO - Saved JS dependency: NewMIDIX\built/js/settings/IndexDbHandler.js (resolved from https://app.midiano.com/built/js/ui/SongUI.js)
+2025-08-20 11:17:37,675 - INFO - Processing JS dependency: https://app.midiano.com/built/js/player/Player.js (from https://app.midiano.com/built/js/settings/IndexDbHandler.js)
+2025-08-20 11:17:38,488 - INFO - Saved JS dependency: NewMIDIX\built/js/player/Player.js (resolved from https://app.midiano.com/built/js/settings/IndexDbHandler.js)
+2025-08-20 11:17:38,490 - INFO - Processing JS dependency: https://app.midiano.com/built/js/player/Tracks.js (from https://app.midiano.com/built/js/player/Player.js)
+2025-08-20 11:17:39,224 - INFO - Saved JS dependency: NewMIDIX\built/js/player/Tracks.js (resolved from https://app.midiano.com/built/js/player/Player.js)
+2025-08-20 11:17:39,225 - INFO - Processing JS dependency: https://app.midiano.com/built/js/settings/SongSettings.js (from https://app.midiano.com/built/js/player/Tracks.js)
+2025-08-20 11:17:40,157 - INFO - Saved JS dependency: NewMIDIX\built/js/settings/SongSettings.js (resolved from https://app.midiano.com/built/js/player/Tracks.js)
+2025-08-20 11:17:42,162 - INFO - Processing JS dependency: https://app.midiano.com/built/js/Song.js (from https://app.midiano.com/built/js/player/Player.js)
+2025-08-20 11:17:42,953 - INFO - Saved JS dependency: NewMIDIX\built/js/Song.js (resolved from https://app.midiano.com/built/js/player/Player.js)
+2025-08-20 11:17:42,955 - INFO - Processing JS dependency: https://app.midiano.com/built/js/sheet/SheetGenerator.js (from https://app.midiano.com/built/js/Song.js)
+2025-08-20 11:17:43,771 - INFO - Saved JS dependency: NewMIDIX\built/js/sheet/SheetGenerator.js (resolved from https://app.midiano.com/built/js/Song.js)
+2025-08-20 11:17:43,774 - INFO - Processing JS dependency: https://app.midiano.com/built/js/sheet/RoundedNote.js (from https://app.midiano.com/built/js/sheet/SheetGenerator.js)
+2025-08-20 11:17:44,585 - INFO - Saved JS dependency: NewMIDIX\built/js/sheet/RoundedNote.js (resolved from https://app.midiano.com/built/js/sheet/SheetGenerator.js)
+2025-08-20 11:17:45,586 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/fonts/load_bravura.js (from https://app.midiano.com/built/js/sheet/SheetGenerator.js)
+2025-08-20 11:17:57,584 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/fonts/load_bravura.js (resolved from https://app.midiano.com/built/js/sheet/SheetGenerator.js)
+2025-08-20 11:17:57,585 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/fonts/bravura_glyphs.js (from https://app.midiano.com/built/lib/vexflow/src/fonts/load_bravura.js)
+2025-08-20 11:18:09,896 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/fonts/bravura_glyphs.js (resolved from https://app.midiano.com/built/lib/vexflow/src/fonts/load_bravura.js)
+2025-08-20 11:18:10,906 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/fonts/common_metrics.js (from https://app.midiano.com/built/lib/vexflow/src/fonts/load_bravura.js)
+2025-08-20 11:18:22,869 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/fonts/common_metrics.js (resolved from https://app.midiano.com/built/lib/vexflow/src/fonts/load_bravura.js)
+2025-08-20 11:18:23,870 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/font.js (from https://app.midiano.com/built/lib/vexflow/src/fonts/load_bravura.js)
+2025-08-20 11:18:35,846 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/font.js (resolved from https://app.midiano.com/built/lib/vexflow/src/fonts/load_bravura.js)
+2025-08-20 11:18:35,847 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/util.js (from https://app.midiano.com/built/lib/vexflow/src/font.js)
+2025-08-20 11:18:47,938 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/util.js (resolved from https://app.midiano.com/built/lib/vexflow/src/font.js)
+2025-08-20 11:18:50,942 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/dot.js (from https://app.midiano.com/built/js/sheet/SheetGenerator.js)
+2025-08-20 11:19:03,041 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/dot.js (resolved from https://app.midiano.com/built/js/sheet/SheetGenerator.js)
+2025-08-20 11:19:03,042 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/modifier.js (from https://app.midiano.com/built/lib/vexflow/src/dot.js)
+2025-08-20 11:19:03,887 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/modifier.js (resolved from https://app.midiano.com/built/lib/vexflow/src/dot.js)
+2025-08-20 11:19:03,887 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/element.js (from https://app.midiano.com/built/lib/vexflow/src/modifier.js)
+2025-08-20 11:19:04,708 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/element.js (resolved from https://app.midiano.com/built/lib/vexflow/src/modifier.js)
+2025-08-20 11:19:04,708 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/registry.js (from https://app.midiano.com/built/lib/vexflow/src/element.js)
+2025-08-20 11:19:05,443 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/registry.js (resolved from https://app.midiano.com/built/lib/vexflow/src/element.js)
+2025-08-20 11:19:08,447 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/typeguard.js (from https://app.midiano.com/built/lib/vexflow/src/dot.js)
+2025-08-20 11:19:14,993 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/typeguard.js (resolved from https://app.midiano.com/built/lib/vexflow/src/dot.js)
+2025-08-20 11:19:16,995 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/vex.js (from https://app.midiano.com/built/js/sheet/SheetGenerator.js)
+2025-08-20 11:19:17,767 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/vex.js (resolved from https://app.midiano.com/built/js/sheet/SheetGenerator.js)
+2025-08-20 11:19:17,767 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/flow.js (from https://app.midiano.com/built/lib/vexflow/src/vex.js)
+2025-08-20 11:19:18,526 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/flow.js (resolved from https://app.midiano.com/built/lib/vexflow/src/vex.js)
+2025-08-20 11:19:18,527 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/parenthesis.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:19:19,281 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/parenthesis.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:19:19,282 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/note.js (from https://app.midiano.com/built/lib/vexflow/src/parenthesis.js)
+2025-08-20 11:19:20,163 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/note.js (resolved from https://app.midiano.com/built/lib/vexflow/src/parenthesis.js)
+2025-08-20 11:19:20,164 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/tables.js (from https://app.midiano.com/built/lib/vexflow/src/note.js)
+2025-08-20 11:19:20,944 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/tables.js (resolved from https://app.midiano.com/built/lib/vexflow/src/note.js)
+2025-08-20 11:19:20,945 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/fraction.js (from https://app.midiano.com/built/lib/vexflow/src/tables.js)
+2025-08-20 11:19:21,674 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/fraction.js (resolved from https://app.midiano.com/built/lib/vexflow/src/tables.js)
+2025-08-20 11:19:22,675 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/glyph.js (from https://app.midiano.com/built/lib/vexflow/src/tables.js)
+2025-08-20 11:19:23,438 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/glyph.js (resolved from https://app.midiano.com/built/lib/vexflow/src/tables.js)
+2025-08-20 11:19:23,439 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/boundingbox.js (from https://app.midiano.com/built/lib/vexflow/src/glyph.js)
+2025-08-20 11:19:24,223 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/boundingbox.js (resolved from https://app.midiano.com/built/lib/vexflow/src/glyph.js)
+2025-08-20 11:19:25,224 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/boundingboxcomputation.js (from https://app.midiano.com/built/lib/vexflow/src/glyph.js)
+2025-08-20 11:19:28,954 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/boundingboxcomputation.js (resolved from https://app.midiano.com/built/lib/vexflow/src/glyph.js)
+2025-08-20 11:19:31,958 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/rendercontext.js (from https://app.midiano.com/built/lib/vexflow/src/note.js)
+2025-08-20 11:19:32,713 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/rendercontext.js (resolved from https://app.midiano.com/built/lib/vexflow/src/note.js)
+2025-08-20 11:19:33,714 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/tickable.js (from https://app.midiano.com/built/lib/vexflow/src/note.js)
+2025-08-20 11:19:45,804 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/tickable.js (resolved from https://app.midiano.com/built/lib/vexflow/src/note.js)
+2025-08-20 11:19:48,808 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/clef.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:19:49,578 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/clef.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:19:49,578 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stavemodifier.js (from https://app.midiano.com/built/lib/vexflow/src/clef.js)
+2025-08-20 11:19:50,308 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stavemodifier.js (resolved from https://app.midiano.com/built/lib/vexflow/src/clef.js)
+2025-08-20 11:19:52,310 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/multimeasurerest.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:04,247 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/multimeasurerest.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:04,247 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/notehead.js (from https://app.midiano.com/built/lib/vexflow/src/multimeasurerest.js)
+2025-08-20 11:20:04,981 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/notehead.js (resolved from https://app.midiano.com/built/lib/vexflow/src/multimeasurerest.js)
+2025-08-20 11:20:04,982 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stem.js (from https://app.midiano.com/built/lib/vexflow/src/notehead.js)
+2025-08-20 11:20:05,776 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stem.js (resolved from https://app.midiano.com/built/lib/vexflow/src/notehead.js)
+2025-08-20 11:20:07,780 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/timesignature.js (from https://app.midiano.com/built/lib/vexflow/src/multimeasurerest.js)
+2025-08-20 11:20:08,511 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/timesignature.js (resolved from https://app.midiano.com/built/lib/vexflow/src/multimeasurerest.js)
+2025-08-20 11:20:08,511 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/timesigglyph.js (from https://app.midiano.com/built/lib/vexflow/src/timesignature.js)
+2025-08-20 11:20:20,496 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/timesigglyph.js (resolved from https://app.midiano.com/built/lib/vexflow/src/timesignature.js)
+2025-08-20 11:20:23,500 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/staveconnector.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:24,292 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/staveconnector.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:25,293 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/tickcontext.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:26,017 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/tickcontext.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:27,020 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/tabstave.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:27,804 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/tabstave.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:27,804 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stave.js (from https://app.midiano.com/built/lib/vexflow/src/tabstave.js)
+2025-08-20 11:20:28,542 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stave.js (resolved from https://app.midiano.com/built/lib/vexflow/src/tabstave.js)
+2025-08-20 11:20:28,542 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/staverepetition.js (from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:29,270 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/staverepetition.js (resolved from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:30,271 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stavevolta.js (from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:31,047 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stavevolta.js (resolved from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:32,048 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/keysignature.js (from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:38,949 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/keysignature.js (resolved from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:39,952 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stavebarline.js (from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:40,713 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stavebarline.js (resolved from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:41,714 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stavetempo.js (from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:42,533 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stavetempo.js (resolved from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:42,533 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/textformatter.js (from https://app.midiano.com/built/lib/vexflow/src/stavetempo.js)
+2025-08-20 11:20:43,301 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/textformatter.js (resolved from https://app.midiano.com/built/lib/vexflow/src/stavetempo.js)
+2025-08-20 11:20:45,307 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stavetext.js (from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:46,090 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stavetext.js (resolved from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:46,090 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/textnote.js (from https://app.midiano.com/built/lib/vexflow/src/stavetext.js)
+2025-08-20 11:20:46,851 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/textnote.js (resolved from https://app.midiano.com/built/lib/vexflow/src/stavetext.js)
+2025-08-20 11:20:48,856 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stavesection.js (from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:49,639 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stavesection.js (resolved from https://app.midiano.com/built/lib/vexflow/src/stave.js)
+2025-08-20 11:20:52,644 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/barnote.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:53,416 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/barnote.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:54,420 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/textbracket.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:55,223 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/textbracket.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:20:55,223 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/renderer.js (from https://app.midiano.com/built/lib/vexflow/src/textbracket.js)
+2025-08-20 11:20:55,992 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/renderer.js (resolved from https://app.midiano.com/built/lib/vexflow/src/textbracket.js)
+2025-08-20 11:20:55,992 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/svgcontext.js (from https://app.midiano.com/built/lib/vexflow/src/renderer.js)
+2025-08-20 11:20:58,055 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/svgcontext.js (resolved from https://app.midiano.com/built/lib/vexflow/src/renderer.js)
+2025-08-20 11:20:59,059 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/web.js (from https://app.midiano.com/built/lib/vexflow/src/renderer.js)
+2025-08-20 11:20:59,805 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/web.js (resolved from https://app.midiano.com/built/lib/vexflow/src/renderer.js)
+2025-08-20 11:21:00,808 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/canvascontext.js (from https://app.midiano.com/built/lib/vexflow/src/renderer.js)
+2025-08-20 11:21:01,548 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/canvascontext.js (resolved from https://app.midiano.com/built/lib/vexflow/src/renderer.js)
+2025-08-20 11:21:04,553 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/ghostnote.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:21:05,319 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/ghostnote.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:21:05,319 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stemmablenote.js (from https://app.midiano.com/built/lib/vexflow/src/ghostnote.js)
+2025-08-20 11:21:06,102 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stemmablenote.js (resolved from https://app.midiano.com/built/lib/vexflow/src/ghostnote.js)
+2025-08-20 11:21:08,105 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/textdynamics.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:21:08,889 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/textdynamics.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:21:09,892 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/tremolo.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:21:16,559 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/tremolo.js (resolved from https://app.midiano.com/built/lib/vexflow/src/flow.js)
+2025-08-20 11:21:16,560 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/gracenote.js (from https://app.midiano.com/built/lib/vexflow/src/tremolo.js)
+2025-08-20 11:21:17,313 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/gracenote.js (resolved from https://app.midiano.com/built/lib/vexflow/src/tremolo.js)
+2025-08-20 11:21:17,313 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/stavenote.js (from https://app.midiano.com/built/lib/vexflow/src/gracenote.js)
+2025-08-20 11:21:18,095 - INFO - Saved JS dependency: NewMIDIX\built/lib/vexflow/src/stavenote.js (resolved from https://app.midiano.com/built/lib/vexflow/src/gracenote.js)
+2025-08-20 11:21:21,110 - INFO - Processing JS dependency: https://app.midiano.com/built/lib/vexflow/src/keymanager.js (from https://app.midiano.com/built/lib/vexflow/src/flow.js)

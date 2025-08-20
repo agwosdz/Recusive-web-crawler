@@ -1,0 +1,29 @@
+Let’s first of all take a look at an unlabeled piano keyboard layout, i.e. without the note names. The one shown in the first piano keyboard layout  has two octaves, a total of 24 notes.
+
+88 key piano, there are 36 black keys and 52 white keys. 
+
+76 key keyboards come with 31 black keys and 45 white keys, 
+
+61 key keyboards come with 25 black keys and 36 white keys,  
+
+49 key keyboards have 20 black keys and 29 white ones.
+
+
+So, here is my simple math for WHITE KEY INDEX:
+pianowidth = striplength = 122.3 cm
+whitewidth = pianowidth/52 (for 88 key piano) = 2.35 cm (ish)
+Find Center LED Index:
+Right to Left:
+Note Nuber = MIDI-BASE+1 (1 for first and 88 for last)
+First Note mid LED (lowest note, highest LED index): 
+offset = whitewidth/2
+Calc: INDEX  ((pianowidth - offset)/pianowidth) * number of  LED) -1
+example: 121.125/122.3 * 178 = 176.29 -1 = 175.29 ROUNDUP = LED Index 176
+Middle C: 24th WHITE KEY (do the math)
+offset = 23*whitewidth + whitewidth/2 = 55.225
+INDEX: (122.3-55.225)/122.3 * numberofLED = 97.6 -1 = 96.6 ROUNDUP LED INDEX=97 is the middle of the key
+
+For black keys, the math will get more compolicated, as we need to account for 3 cases:
+Between G and H, the black key is centered between the white keys, and its simplest: offset here is 0
+((pianowidth - offset - INDEX will be number white keys at preceding halftone * whitewidth)/pianowidth)  * led count, then subtract 1 and round up
+For the other ones, we need to have an offset: if preceding note is C or F, it is like above, but we subtract the offset for black keys with preceding A or D, insted of subtracting the offset, we add the offset

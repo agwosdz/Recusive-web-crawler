@@ -1,0 +1,96 @@
+{
+  "timestamp": "2025-08-20T10:24:49.870313",
+  "total_urls_visited": 0,
+  "subdomains": [
+    "https://instagram.com/example",
+    "https://github.com",
+    "https://facebook.com/example",
+    "https://linkedin.com/company/example",
+    "https://twitter.com/example",
+    "https://example.com"
+  ],
+  "links": [
+    "https://instagram.com/example",
+    "mailto:demo@example.com",
+    "https://github.com",
+    "https://facebook.com/example",
+    "https://linkedin.com/company/example",
+    "https://twitter.com/example",
+    "https://example.com"
+  ],
+  "images": [
+    "https://via.placeholder.com/300x200",
+    "sample1.jpg"
+  ],
+  "js_files": [
+    "https://cdn.example.com/analytics.js",
+    "script.js"
+  ],
+  "css_files": [
+    "styles.css"
+  ],
+  "emails": [
+    "info@example.com",
+    "demo@example.com"
+  ],
+  "phone_numbers": [
+    "555.987.6543"
+  ],
+  "social_media": [
+    "https://instagram.com/example",
+    "https://facebook.com/example",
+    "https://linkedin.com/company/example",
+    "https://twitter.com/example"
+  ],
+  "text_content": [
+    {
+      "type": "title",
+      "content": "Sample HTML Page for Web Scraper Demo"
+    },
+    {
+      "type": "h1",
+      "content": "Welcome to the Web Scraper Demo"
+    },
+    {
+      "type": "h2",
+      "content": "About This Demo"
+    },
+    {
+      "type": "h2",
+      "content": "Sample Images"
+    },
+    {
+      "type": "h2",
+      "content": "Social Media Links"
+    },
+    {
+      "type": "h3",
+      "content": "Features Demonstrated"
+    },
+    {
+      "type": "paragraph",
+      "content": "This is a sample HTML page created to demonstrate the capabilities of our web scraper."
+    },
+    {
+      "type": "paragraph",
+      "content": "Contact us at: demo@example.com or call (555) 123-4567"
+    },
+    {
+      "type": "paragraph",
+      "content": "Follow us on:"
+    },
+    {
+      "type": "paragraph",
+      "content": "© 2024 Web Scraper Demo. All rights reserved."
+    },
+    {
+      "type": "paragraph",
+      "content": "Phone: 555.987.6543 | Email: info@example.com"
+    }
+  ],
+  "metadata": {
+    "viewport": "width=device-width, initial-scale=1.0",
+    "description": "Sample HTML page for web scraper testing",
+    "keywords": "web scraping, html parsing, demo"
+  }
+}
